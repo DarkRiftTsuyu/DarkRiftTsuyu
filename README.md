@@ -4,12 +4,11 @@
 
 <br>
 
-<div align="center">
 ![Sleepless Dev](https://img.shields.io/badge/Sleepless_Dev-000?style=for-the-badge&logo=icloud&logoColor=white)
 ![Powered by Monster](https://img.shields.io/badge/Powered_by_Monster-000000?style=for-the-badge&logoColor=00e600&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAuNSAyOS4zYy0uOS0uMi0xLjUtMS4yLTEuMy0yLjFsMi45LTE4LjVjLjEtLjcuNy0xLjIgMS4zLTEuMWwxLjIuMmMuNi4xIDEgLjggLjkgMS41bC0yLjkgMTguNWMtLjEuNy0uNyAxLjItMS4zIDEuMWwtMS4yLS4yek0xNyAyOS4zYy0uOS0uMi0xLjUtMS4yLTEuMy0yLjFsMi45LTE4LjVjLjEtLjcuNy0xLjIgMS4zLTEuMWwxLjIuMmMuNi4xIDEgLjggLjkgMS41bC0yLjkgMTguNWMtLjEuNy0uNyAxLjItMS4zIDEuMWwtMS4yLS4yek0yMy41IDI5LjNjLS45LS4yLTEuNS0xLjItMS4zLTIuMWwyLjktMTguNWMuMS0uNy43LTEuMiAxLjMtMS4xbDEuMi4yYy42LjEgMSAuOC45IDEuNWwtMi45IDE4LjVjLS4xLjctLjcgMS4yLTEuMyAxLjFsLTEuMi0uMnoiIGZpbGw9IiMwMGU2MDAiLz48L3N2Zz4=)
 ![Procrastinating](https://img.shields.io/badge/Status-Procrastinating-ed5b76?style=for-the-badge)
 ![Listening to Music](https://img.shields.io/badge/%F0%9F%8E%B5_Listening_to_Music-ff4da6?style=for-the-badge)
-</div>
+
 
 # About Me:
 
@@ -52,6 +51,7 @@ Users can use Steam to search for a game to automatically get a race list of all
   <img src="https://github-readme-stats.vercel.app/api?username=DarkRiftTsuyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRiftTsuyu&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
 
 
 
