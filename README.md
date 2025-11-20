@@ -4,12 +4,12 @@
 
 <br>
 
-![Sleepless Dev](https://img.shields.io/badge/Sleepless_Dev-000?style=for-the-badge&logo=icloud&logoColor=white)
-![Powered by Monster](https://img.shields.io/badge/Powered_by_Monster-000000?style=for-the-badge&logoColor=00e600&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAuNSAyOS4zYy0uOS0uMi0xLjUtMS4yLTEuMy0yLjFsMi45LTE4LjVjLjEtLjcuNy0xLjIgMS4zLTEuMWwxLjIuMmMuNi4xIDEgLjggLjkgMS41bC0yLjkgMTguNWMtLjEuNy0uNyAxLjItMS4zIDEuMWwtMS4yLS4yek0xNyAyOS4zYy0uOS0uMi0xLjUtMS4yLTEuMy0yLjFsMi45LTE4LjVjLjEtLjcuNy0xLjIgMS4zLTEuMWwxLjIuMmMuNi4xIDEgLjggLjkgMS41bC0yLjkgMTguNWMtLjEuNy0uNyAxLjItMS4zIDEuMWwtMS4yLS4yek0yMy41IDI5LjNjLS45LS4yLTEuNS0xLjItMS4zLTIuMWwyLjktMTguNWMuMS0uNy43LTEuMiAxLjMtMS4xbDEuMi4yYy42LjEgMSAuOC45IDEuNWwtMi45IDE4LjVjLS4xLjctLjcgMS4yLTEuMyAxLjFsLTEuMi0uMnoiIGZpbGw9IiMwMGU2MDAiLz48L3N2Zz4=)
-![Procrastinating](https://img.shields.io/badge/Status-Procrastinating-ed5b76?style=for-the-badge)
-![Listening to Music](https://img.shields.io/badge/%F0%9F%8E%B5_Listening_to_Music-ff4da6?style=for-the-badge)
-
-<div align="center"><img src="data:image/svg+xml;charset=utf-8,%3C!--%20https%3A%2F%2Fgithub.com%2FDenverCoder1%2Freadme-typing-svg%2F%20--%3E%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%0A%20%20%20%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%0A%20%20%20%20viewBox%3D'0%200%20400%2050'%0A%20%20%20%20style%3D'background-color%3A%20%2300000000%3B'%0A%20%20%20%20width%3D'400px'%20height%3D'50px'%3E%0A%0A%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cpath%20id%3D'path0'%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C!--%20Single%20line%20--%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Canimate%20id%3D'd0'%20attributeName%3D'd'%20begin%3D'0s%3Bd0.end'%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20dur%3D'5000ms'%20fill%3D'remove'%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20values%3D'm0%2C25%20h0%20%3B%20m0%2C25%20h400%20%3B%20m0%2C25%20h400%20%3B%20m0%2C25%20h0'%20keyTimes%3D'0%3B0.8%3B0.8%3B1'%20%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C%2Fpath%3E%0A%20%20%20%20%3Ctext%20font-family%3D'%22monospace%22%2C%20monospace'%20fill%3D'%23AC0CB3'%20font-size%3D'20'%0A%20%20%20%20%20%20%20%20dominant-baseline%3D'auto'%0A%20%20%20%20%20%20%20%20x%3D'0%25'%20text-anchor%3D'start'%0A%20%20%20%20%20%20%20%20letter-spacing%3D'normal'%3E%0A%20%20%20%20%20%20%20%20%3CtextPath%20xlink%3Ahref%3D'%23path0'%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20DarkRiftTsuyu%26%23039%3Bs%20Github%20Page%0A%20%20%20%20%20%20%20%20%3C%2FtextPath%3E%0A%20%20%20%20%3C%2Ftext%3E%0A%3C%2Fsvg%3E%0A" /></div>
+<div align="center">
+  ![Sleepless Dev](https://img.shields.io/badge/Sleepless_Dev-000?style=for-the-badge&logo=icloud&logoColor=white)
+  ![Powered by Monster](https://img.shields.io/badge/Powered_by_Monster-000000?style=for-the-  badge&logoColor=00e600&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAuNSAyOS4zYy0uOS0uMi0xLjUtMS4yLTEuMy0yLjFsMi45LTE4LjVjLjEtLjcuNy0xLjIgMS4zLTEuMWwxLjIuMmMuNi4xIDEgLjggLjkgMS41bC0yLjkgMTguNWMtLjEuNy0uNyAxLjItMS4zIDEuMWwtMS4yLS4yek0xNyAyOS4zYy0uOS0uMi0xLjUtMS4yLTEuMy0yLjFsMi45LTE4LjVjLjEtLjcuNy0xLjIgMS4zLTEuMWwxLjIuMmMuNi4xIDEgLjggLjkgMS41bC0yLjkgMTguNWMtLjEuNy0uNyAxLjItMS4zIDEuMWwtMS4yLS4yek0yMy41IDI5LjNjLS45LS4yLTEuNS0xLjItMS4zLTIuMWwyLjktMTguNWMuMS0uNy43LTEuMiAxLjMtMS4xbDEuMi4yYy42LjEgMSAuOC45IDEuNWwtMi45IDE4LjVjLS4xLj  ctLjcgMS4yLTEuMyAxLjFsLTEuMi0uMnoiIGZpbGw9IiMwMGU2MDAiLz48L3N2Zz4=)
+  ![Procrastinating](https://img.shields.io/badge/Status-Procrastinating-ed5b76?style=for-the-badge)
+  ![Listening to Music](https://img.shields.io/badge/%F0%9F%8E%B5_Listening_to_Music-ff4da6?style=for-the-badge)
+</div>
 
 # About Me:
 
@@ -36,7 +36,7 @@ Users can use Steam to search for a game to automatically get a race list of all
 **Find it here:** https://checkpoint-race.app
 
 ### Tech Used
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -52,4 +52,5 @@ Users can use Steam to search for a game to automatically get a race list of all
   <img src="https://github-readme-stats.vercel.app/api?username=DarkRiftTsuyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRiftTsuyu&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
 
