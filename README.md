@@ -48,9 +48,10 @@ Users can use Steam to search for a game to automatically get a race list of all
 # GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkRiftTsuyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkRiftTsuyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRiftTsuyu&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
 
 
 
