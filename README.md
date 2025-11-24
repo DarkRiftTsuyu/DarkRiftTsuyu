@@ -45,12 +45,28 @@ Users can use Steam to search for a game to automatically get a race list of all
 
 <br>
 
+## **DarkRift Website**
+My personal website built as a 'portfolio' of sorts but provides more than just information on projects of mine.  
+This includes things like my collection of items such as: Funko Pops, CDs, etc. as well as my recent music history with way more planned
+
+**Find it here:** https://darkrift.vercel.app
+
+### Tech Used
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+</div>
+
+<br>
+
 # GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarkRiftTsuyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRiftTsuyu&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
 
 
 
