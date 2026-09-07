@@ -20,7 +20,7 @@ I also like listening to music while I work because focusing is for morons.
 </div>
 
 <div align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=DarkRift_Tsuyu&show_user=header&header_style=compact_stats_only&bg_color=0d0010&width=1000px](https://www.codewars.com/users/DarkRiftTsuyu/badges/large)" alt="CodeWars" />
+  <img src="https://www.codewars.com/users/DarkRiftTsuyu/badges/large" alt="CodeWars" />
 </div>
 
 <div align="center">
