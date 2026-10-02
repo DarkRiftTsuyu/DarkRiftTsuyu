@@ -93,7 +93,7 @@ I'll probably do it.
 <img
   src="https://rift-now-playing-xbox.vercel.app/api/xbox"
   width="900"
-  alt="Xbox Now Playing"
+  alt="Xbox Activity"
 />
 
 </div>
